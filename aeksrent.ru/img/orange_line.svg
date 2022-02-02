@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="12" viewBox="0 0 55 12">
+    <defs>
+        <style>
+            .cls-1{fill:#f70}
+        </style>
+    </defs>
+    <path id="orange_line" d="M0 0h55v12H0z" class="cls-1"/>
+</svg>
